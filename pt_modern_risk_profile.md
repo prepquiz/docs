@@ -73,7 +73,7 @@ $$
 \text{Overall Risk} = \frac{\text{Hazard Score} \times \text{Vulnerability Score}}{\text{Resilience Score} + \varepsilon}
 $$
 
-where \( \varepsilon \) is a small constant (e.g., 0.01) to prevent division by zero.
+where `epsilon` is a small constant (e.g., 0.01) to prevent division by zero.
 
 ### Risk Levels
 
